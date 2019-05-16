@@ -90,7 +90,7 @@ function update() {
     });
 
     if (arrEnemies1.length == 0 && arrEnemies2.length == 0) {
-        alert("you win! Yaya!");
+        alert("You win!");
         return;
     }
 
